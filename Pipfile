@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 requests = "*"
+"flake8" = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.6"
